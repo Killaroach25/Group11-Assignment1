@@ -1,2 +1,2 @@
 # Group11-Assignment1
-2D Platformer  
+Simple puzzle 2D Platformer  
